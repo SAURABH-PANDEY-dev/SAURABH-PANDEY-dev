@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m excited to share my coding journey with you.
 
 ## 📫 How to reach me...
 * Email: saurabhpandey8908@gmail.com 
-* LinkedIn: saurabh pandey-dev
+* LinkedIn: https://www.linkedin.com/in/saurabh-pandey-dev
 
 ## 😄 Pronouns: 
 * he/him
