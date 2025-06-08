@@ -20,4 +20,8 @@ Welcome to my GitHub profile! I’m excited to share my coding journey with you.
 ## 😄 Pronouns: 
 * he/him
 
+## Resume 
+[Saurabh_Pandey_Java_Programmer_Resume_2025.pdf](https://github.com/user-attachments/files/20643958/Saurabh_Pandey_Java_Programmer_Resume_2025.pdf)
+
+
 ---- 
