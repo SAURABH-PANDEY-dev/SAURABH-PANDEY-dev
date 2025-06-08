@@ -23,5 +23,12 @@ Welcome to my GitHub profile! I’m excited to share my coding journey with you.
 ## Resume 
 [Saurabh_Pandey_Java_Programmer_Resume_2025.pdf](https://github.com/user-attachments/files/20643958/Saurabh_Pandey_Java_Programmer_Resume_2025.pdf)
 
+![image](https://github.com/user-attachments/assets/a33948d2-ba7d-423b-be20-6d5492e2b100)
+![image](https://github.com/user-attachments/assets/6e82b3bd-3f14-48ec-a7e5-51cf7c4af84a)
+![image](https://github.com/user-attachments/assets/9b6226c6-360c-4a0f-9e5c-31bd7013a4cb)
+
+
+
+
 
 ---- 
